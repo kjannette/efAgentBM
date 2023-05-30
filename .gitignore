@@ -127,3 +127,6 @@ packages/react-devtools-extensions/.tempUserDataDir
 packages/react-devtools-inline/dist
 packages/react-devtools-shell/dist
 packages/react-devtools-timeline/dist
+
+secrets.py
+secrets_1.py
